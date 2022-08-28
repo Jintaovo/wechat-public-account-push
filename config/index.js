@@ -7,13 +7,13 @@ export const config = {
     // 模板消息id
     templateId: "5TQ0hgrpUDW884dFdyADi8Iuy88c9Fa6Q-rGzgguKJY",
     // 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-    user: [Jintaovo],
+    user: ["ozeG76Ucaq3mUWrNA6wzndlZabF4"],
      
     // 信息配置
     // 所在省份
     province: "河南",
     // 所在城市
-    city: "林州",
+    city: "安阳",
     // 生日，修改名字为对应需要显示的名字，如果生日为农历， type为 r
     birthdays: [
       {"name": "老婆", "year": "1993", "date": "12-27", "type": 'new'},
