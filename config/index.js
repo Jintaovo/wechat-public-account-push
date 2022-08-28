@@ -16,8 +16,8 @@ export const config = {
     city: "安阳",
     // 生日，修改名字为对应需要显示的名字，如果生日为农历， type为 r
     birthdays: [
-      {"name": "研究生考试","year": "2022", "date": "12-24", "type": 'new'},
-      {"name": "你的", "year": "1999", "date": "02-11", "type": 'r'},
+      {"name": "研究生入学考试","year": "2022", "date": "12-24", "type": 'new'},
+      {"name": "元旦", "year": "2023", "date": "01-01", "type": 'new'},
     ],
     // 在一起的日子，格式同上
    // loveDate: "2015-05-01",
